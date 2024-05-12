@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Writing Platform</title>
+    <style>
+        /* CSS styles can go here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+        }
+        .footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Online Writing Platform</h1>
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>
+            We provide a platform for students to interact with tutors and writers for their writing needs. Whether you need help with essays, research papers, or any other writing assignments, we've got you covered!
+        </p>
+        <h2>Services</h2>
+        <p>
+            Our platform offers personalized writing assistance tailored to your specific requirements. You can connect with experienced tutors and writers who will guide you through the writing process and help you improve your skills.
+        </p>
+        <h2>Contact Us</h2>
+        <p>
+            Have questions or need support? Feel free to reach out to us at <a href="mailto:info@onlinewritingplatform.com">info@onlinewritingplatform.com</a>.
+        </p>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Online Writing Platform. All rights reserved.</p>
+    </footer>
+</body>
+</html>
